@@ -8,7 +8,7 @@ Little helper maker
 npm install florenthagard/command
 ```
 
-### Usage
+### Example
 
 ```javascript
 const command = require('command');
