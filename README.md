@@ -28,4 +28,4 @@ const command = require('command');
 
 ## License
 
-This project is licensed under the GNU 3.0 License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GNU 3.0 License - see the [LICENSE](LICENSE) file for details
